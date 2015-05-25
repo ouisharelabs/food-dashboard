@@ -12,7 +12,7 @@ Please comment on **[interested in collaboration?](https://github.com/ouisharela
 
 ## Motivation
 
-Various services already engage relatively big number of participants, still in many places people struggle to reach critical mass required for starting local groups. Since most services complement each other, rather than compete, establishing interoperability can create synargy and let everyone thrive!
+Various services already engage relatively big number of participants, still in many places people struggle to reach critical mass required for starting local groups. Since most services complement each other, rather than compete, establishing interoperability can create synergy and let everyone thrive!
 
 Connecting further with culture of Open Source, Open Standards and Open Data, can help with creating much more transparent, harmonious, concious and fair fundations to build such heterogenous collaboration.
 
