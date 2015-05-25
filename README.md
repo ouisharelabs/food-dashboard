@@ -38,6 +38,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://ernte-teilen.org
 * http://mundraub.org
 * http://trashwiki.org
+* http://mundraub.org
 
 ### communities
 * http://discosoupe.org
@@ -46,6 +47,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://www.fsenetwork.org
 * http://sharefoodforest.org
 * http://de.wikipedia.org/wiki/Volxküche
+* http://agroecol.eu
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
@@ -53,6 +55,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/teikei/teikei
 * https://github.com/Growstuff/growstuff
 * https://github.com/aaronpk/Teacup
+* https://github.com/ecobytes/plantei.eu-website
 
 ### open data
 * https://www.wikidata.org
