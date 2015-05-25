@@ -6,6 +6,7 @@ food management app which connect to various online services
 * https://thefoodassembly.com
 * https://www.mealsharing.com/
 * https://ernte-teilen.org
+* http://mundraub.org
 * http://trashwiki.org
 
 # communities
