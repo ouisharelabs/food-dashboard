@@ -1,8 +1,10 @@
 # food-dashboard
 
+[![Gitter](http://img.shields.io/badge/chat-Gitter-blue.svg?style=flat)](https://gitter.im/ouisharelabs/food-dashboard)
+
 Food management app which connect to various online services.
 
-Please comment on **[interested in collaboration?](https://github.com/ouisharelabs/food-dashboard/issues/1)** issue to connect with others!
+Please comment on **[interested in collaboration?](https://github.com/ouisharelabs/food-dashboard/issues/1)** issue and/or jump on **[Gitter chat room](https://gitter.im/ouisharelabs/food-dashboard)** to connect with others!
 
 ![sketch](https://farm9.staticflickr.com/8761/17885883848_104df4e44b_c.jpg)
 
