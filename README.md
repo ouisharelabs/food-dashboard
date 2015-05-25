@@ -63,6 +63,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/foodcoops/foodsoft
 * https://github.com/teikei/teikei
 * https://github.com/Growstuff/growstuff
+* https://github.com/openfarmcc/OpenFarm
 * https://github.com/aaronpk/Teacup
 * https://github.com/ecobytes/plantei.eu-website
 
