@@ -38,7 +38,6 @@ Just a rough proposal, TBD after discussing it together!
 * https://ernte-teilen.org
 * http://mundraub.org
 * http://trashwiki.org
-* http://mundraub.org
 
 ### communities
 * http://discosoupe.org
