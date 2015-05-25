@@ -41,7 +41,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://www.foodsharing.nl/
 * https://thefoodassembly.com
 * https://www.mealsharing.com
-* http://www.thuisafgehaald.nl
+* http://www.thuisafgehaald.nl | http://www.shareyourmeal.net
 * https://ernte-teilen.org
 * http://mundraub.org
 * https://openfarm.cc/
