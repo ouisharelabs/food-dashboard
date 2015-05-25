@@ -3,6 +3,8 @@ Food management app which connect to various online services.
 
 Please comment on **[interested in collaboration?](https://github.com/ouisharelabs/food-dashboard/issues/1)** issue to connect with others!
 
+![sketch](https://farm9.staticflickr.com/8761/17885883848_104df4e44b_c.jpg)
+
 # services
 * https://foodsharing.de
 * https://thefoodassembly.com
