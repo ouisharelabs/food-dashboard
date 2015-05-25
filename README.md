@@ -1,6 +1,8 @@
 # food-dashboard
 
+[![issues](http://img.shields.io/github/issues/ouisharelabs/food-dashboard.svg?style=flat)](https://github.com/ouisharelabs/food-dashboard/issues)
 [![Gitter](http://img.shields.io/badge/chat-Gitter-blue.svg?style=flat)](https://gitter.im/ouisharelabs/food-dashboard)
+[![Unlicense](http://img.shields.io/badge/license-Unlicense-blue.svg?style=flat)](http://unlicense.org)
 
 Food management app which connect to various online services.
 
