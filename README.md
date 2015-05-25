@@ -1,4 +1,5 @@
 # food-dashboard
+
 Food management app which connect to various online services.
 
 Please comment on **[interested in collaboration?](https://github.com/ouisharelabs/food-dashboard/issues/1)** issue to connect with others!
@@ -10,6 +11,17 @@ Please comment on **[interested in collaboration?](https://github.com/ouisharela
 Various services already engage relatively big number of participants, still in many places people struggle to reach critical mass required for starting local groups. Since most services complement each other, rather than compete, establishing interoperability can create synargy and let everyone thrive!
 
 Connecting further with culture of Open Source, Open Standards and Open Data, can help with creating much more transparent, harmonious, concious and fair fundations to build such heterogenous collaboration.
+
+## Roadmap
+
+Just a rough proposal, TBD after discussing it together!
+
+1. Calendar - unified calendar aggregating **events** from all interoperating services
+2. Map - unified map aggregating layers with **points of interest** from all interoperating services
+3. Schemas
+ * Produce - common way of describing shared ingredients for food
+ * Meals - common way of describing meals prepared from ingredients (Produce)
+ * Activities - grow, harvest, process, transport, distribute, eat, drink, cook etc.
 
 ## Links
 
