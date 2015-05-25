@@ -16,12 +16,18 @@ Connecting further with culture of Open Source, Open Standards and Open Data, ca
 
 Just a rough proposal, TBD after discussing it together!
 
-1. Calendar - unified calendar aggregating **events** from all interoperating services
-2. Map - unified map aggregating layers with **points of interest** from all interoperating services
-3. Schemas
- * Produce - common way of describing shared ingredients for food
- * Meals - common way of describing meals prepared from ingredients (Produce)
- * Activities - grow, harvest, process, transport, distribute, eat, drink, cook etc.
+1. Calendar
+  * feature: unified calendar aggregating **events** from all interoperating services
+  * schemas: Activities/Events - grow, harvest, process, transport, distribute, eat, drink, cook etc.
+2. Map
+  * feature: unified map aggregating layers with **points of interest** from all interoperating services
+  * schemas: POIs - Farm, Garden, DistributionPlace, Kitchen, DinningPlace etc.
+3. Food
+  * feature: unified way of describing data about food
+  * schemas:
+    * Produce - common way of describing shared ingredients for food and tracking its sources
+    * Meals - common way of describing meals prepared from ingredients (Produce)
+ 
 
 ## Links
 
