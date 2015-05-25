@@ -77,4 +77,4 @@ Just a rough proposal, TBD after discussing it together!
 * https://www.w3.org/community/restonto/
 * [United Nations Standard Products and Services Code](https://en.wikipedia.org/wiki/UNSPSC) (freely usable)
 * [Global Product Classification](https://en.wikipedia.org/wiki/Global_Product_Classification) (fully free of charge, no usage restrictions)
-* [Codex Alimentarius](https://en.wikipedia.org/wiki/Codex_Alimentarius): [food-related standards](http://www.codexalimentarius.org/standards/list-of-standards/en/?provide=standards&orderField=fullReference&sort=asc&num1=CAC/MICS)
+* [Codex Alimentarius](https://en.wikipedia.org/wiki/Codex_Alimentarius): [food-related standards](http://www.codexalimentarius.org/standards/list-of-standards/en/?provide=standards&orderField=fullReference&sort=asc&num1=CAC/MISC)
