@@ -40,4 +40,5 @@ Connecting further with culture of Open Source, Open Standards and Open Data, ca
 * https://www.wikidata.org
 * http://openfoodfacts.org
 * http://product.okfn.org
+* http://aims.fao.org/agrovoc
 * http://www.sourcemap.com
