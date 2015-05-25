@@ -1,5 +1,7 @@
 # food-dashboard
-food management app which connect to various online services
+Food management app which connect to various online services.
+
+Please comment on **[interested in collaboration?](https://github.com/ouisharelabs/food-dashboard/issues/1)** issue to connect with others!
 
 # services
 * https://foodsharing.de
