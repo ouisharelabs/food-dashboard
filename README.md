@@ -45,6 +45,8 @@ Just a rough proposal, TBD after discussing it together!
 * https://ernte-teilen.org
 * http://mundraub.org
 * https://openfarm.cc/
+* http://foodtrade.com
+* https://epelia.com
 
 ### communities
 * http://discosoupe.org
