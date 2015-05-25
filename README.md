@@ -47,6 +47,8 @@ Just a rough proposal, TBD after discussing it together!
 * http://sharefoodforest.org
 * http://de.wikipedia.org/wiki/Volxküche
 * http://agroecol.eu
+* http://urgenci.net
+* http://incredibleediblenetwork.org.uk
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
