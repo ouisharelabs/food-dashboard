@@ -60,3 +60,6 @@ Just a rough proposal, TBD after discussing it together!
 * http://product.okfn.org
 * http://aims.fao.org/agrovoc
 * http://www.sourcemap.com
+
+### open standards
+* https://www.w3.org/community/restonto/
