@@ -37,11 +37,13 @@ Just a rough proposal, TBD after discussing it together!
 
 ### services
 * https://foodsharing.de
+* http://trashwiki.org
+* https://www.foodsharing.nl/
 * https://thefoodassembly.com
-* https://www.mealsharing.com/
+* https://www.mealsharing.com
+* http://www.thuisafgehaald.nl
 * https://ernte-teilen.org
 * http://mundraub.org
-* http://trashwiki.org
 
 ### communities
 * http://discosoupe.org
