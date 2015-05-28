@@ -59,6 +59,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://urgenci.net
 * http://incredibleediblenetwork.org.uk
 * http://wwoof.net
+* http://farmhack.org
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
