@@ -47,6 +47,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://openfarm.cc/
 * http://foodtrade.com
 * https://epelia.com
+* http://www.producerun.com
 
 ### communities
 * http://discosoupe.org
@@ -69,6 +70,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/openfarmcc/OpenFarm
 * https://github.com/aaronpk/Teacup
 * https://github.com/ecobytes/plantei.eu-website
+* https://github.com/producerun/producerun
 
 ### open data
 * https://www.wikidata.org
