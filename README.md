@@ -61,6 +61,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://incredibleediblenetwork.org.uk
 * http://wwoof.net
 * http://farmhack.org
+* http://openmensa.org
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
