@@ -74,6 +74,7 @@ Just a rough proposal, TBD after discussing it together!
 
 ### open data
 * https://www.wikidata.org
+  * https://www.wikidata.org/wiki/Wikidata:WikiProject_Food
 * http://openfoodfacts.org
 * http://product.okfn.org
 * http://aims.fao.org/agrovoc
