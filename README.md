@@ -48,6 +48,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://foodtrade.com
 * https://epelia.com
 * http://www.producerun.com
+* http://openmensa.org
 
 ### communities
 * http://discosoupe.org
@@ -61,7 +62,6 @@ Just a rough proposal, TBD after discussing it together!
 * http://incredibleediblenetwork.org.uk
 * http://wwoof.net
 * http://farmhack.org
-* http://openmensa.org
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
@@ -72,6 +72,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/aaronpk/Teacup
 * https://github.com/ecobytes/plantei.eu-website
 * https://github.com/producerun/producerun
+* https://github.com/openmensa
 
 ### open data
 * https://www.wikidata.org
