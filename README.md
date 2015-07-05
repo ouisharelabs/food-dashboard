@@ -73,6 +73,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/ecobytes/plantei.eu-website
 * https://github.com/producerun/producerun
 * https://github.com/openmensa
+* https://github.com/foodcoops/foodsoft/wiki/Other-foodcoop-software
 
 ### open data
 * https://www.wikidata.org
