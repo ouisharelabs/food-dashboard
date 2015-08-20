@@ -63,6 +63,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://wwoof.net
 * http://farmhack.org
 * http://www.foodtechconnect.com
+* http://foodtank.com
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
