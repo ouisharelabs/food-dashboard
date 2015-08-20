@@ -64,6 +64,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://farmhack.org
 * http://www.foodtechconnect.com
 * http://foodtank.com
+* https://www.meansdatabase.com
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
