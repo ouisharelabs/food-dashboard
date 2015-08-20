@@ -62,6 +62,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://incredibleediblenetwork.org.uk
 * http://wwoof.net
 * http://farmhack.org
+* http://www.foodtechconnect.com
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
@@ -74,6 +75,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/producerun/producerun
 * https://github.com/openmensa
 * https://github.com/foodcoops/foodsoft/wiki/Other-foodcoop-software
+* https://github.com/FoodCoopSystem/foodcoopsystem
 
 ### open data
 * https://www.wikidata.org
