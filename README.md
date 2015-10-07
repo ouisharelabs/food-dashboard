@@ -65,6 +65,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://www.foodtechconnect.com
 * http://foodtank.com
 * https://www.meansdatabase.com
+* http://cirandas.net/
 
 ### open source software
 * https://github.com/openfoodfoundation/openfoodnetwork
@@ -78,6 +79,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/openmensa
 * https://github.com/foodcoops/foodsoft/wiki/Other-foodcoop-software
 * https://github.com/FoodCoopSystem/foodcoopsystem
+* https://github.com/coletivoEITA/noosfero-ecosol
 
 ### open data
 * https://www.wikidata.org
