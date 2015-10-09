@@ -49,6 +49,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://epelia.com
 * http://www.producerun.com
 * http://openmensa.org
+* https://sharethemeal.org
 
 ### communities
 * http://discosoupe.org
