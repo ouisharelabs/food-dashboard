@@ -81,6 +81,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/foodcoops/foodsoft/wiki/Other-foodcoop-software
 * https://github.com/FoodCoopSystem/foodcoopsystem
 * https://github.com/coletivoEITA/noosfero-ecosol
+* https://github.com/bablukid/cagette
 
 ### open data
 * https://www.wikidata.org
