@@ -82,6 +82,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/FoodCoopSystem/foodcoopsystem
 * https://github.com/coletivoEITA/noosfero-ecosol
 * https://github.com/bablukid/cagette
+* https://github.com/jmueller17/Aixada
 
 ### open data
 * https://www.wikidata.org
