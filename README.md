@@ -50,6 +50,7 @@ Just a rough proposal, TBD after discussing it together!
 * http://www.producerun.com
 * http://openmensa.org
 * https://sharethemeal.org
+* https://lettuceshare.org/ (powered by dobrado)
 
 ### communities
 * http://discosoupe.org
@@ -82,6 +83,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/FoodCoopSystem/foodcoopsystem
 * https://github.com/coletivoEITA/noosfero-ecosol
 * https://github.com/bablukid/cagette
+* https://gitlab.com/dobrado/dobrado
 
 ### open data
 * https://www.wikidata.org
