@@ -85,6 +85,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/bablukid/cagette
 * https://github.com/jmueller17/Aixada
 * https://gitlab.com/dobrado/dobrado
+* https://gitlab.com/open-economy-log/open-economy-log
 
 ### open data
 * https://www.wikidata.org
