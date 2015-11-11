@@ -86,6 +86,7 @@ Just a rough proposal, TBD after discussing it together!
 * https://github.com/jmueller17/Aixada
 * https://gitlab.com/dobrado/dobrado
 * https://gitlab.com/open-economy-log/open-economy-log
+* https://github.com/kbhff/eggplant
 
 ### open data
 * https://www.wikidata.org
