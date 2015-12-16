@@ -32,6 +32,7 @@ Just a rough proposal, TBD after discussing it together!
     * Produce - common way of describing shared ingredients for food and tracking its sources
     * Meals - common way of describing meals prepared from ingredients (Produce)
  
+See [terminology](TERMINOLOGY.md) for how terms in different projects may be related.
 
 ## Links
 
