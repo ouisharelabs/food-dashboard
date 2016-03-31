@@ -95,6 +95,7 @@ See [terminology](TERMINOLOGY.md) for how terms in different projects may be rel
 * http://openfoodfacts.org
 * http://product.okfn.org
 * http://aims.fao.org/agrovoc
+* http://www.fao.org/infoods/
 * http://www.sourcemap.com
 
 ### open standards
