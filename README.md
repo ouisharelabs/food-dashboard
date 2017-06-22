@@ -89,6 +89,7 @@ See [terminology](TERMINOLOGY.md) for how terms in different projects may be rel
 * https://gitlab.com/open-economy-log/open-economy-log
 * https://github.com/kbhff/eggplant | http://www.meetup.com/Eggplant/
 * https://github.com/sean-stanley/FoodCoop
+* https://github.com/foodcoopshop/foodcoopshop
 
 ### open data
 * https://www.wikidata.org
